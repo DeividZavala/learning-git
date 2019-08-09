@@ -35,3 +35,6 @@ body {
     display: none;
     height: 0;
   }
+.main_index{
+    height: 80vh;
+}
