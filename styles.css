@@ -4,3 +4,34 @@
 html{
     font-family:Dosis;
 }
+
+body {
+    margin: 0;
+    background-color:#fefefe;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  article,
+  aside,
+  details,
+  figcaption,
+  figure,
+  footer,
+  header,
+  main,
+  menu,
+  nav,
+  section,
+  summary {
+    display: block;
+  }
+  audio,
+  canvas,
+  progress,
+  video {
+    display: inline-block;
+  }
+  audio:not([controls]) {
+    display: none;
+    height: 0;
+  }
